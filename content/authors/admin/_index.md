@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Your Name"
+title: "Yingru Pan"
 
 # Username (this should match the folder name: admin)
 authors:
