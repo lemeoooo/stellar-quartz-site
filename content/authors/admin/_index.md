@@ -68,6 +68,3 @@ highlight_name: true
 
 # You can write a longer narrative biography below the front matter
 ---
-
-Write a longer biography here if you want – this is optional and usually
-only appears on a dedicated author page, not the front page.
